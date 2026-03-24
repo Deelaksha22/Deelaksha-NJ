@@ -1,14 +1,81 @@
-# 💫 About Me:
- Pushing computer science and engineering at coorg institute of technology <br>
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deelakesha22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deelakesha22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deelakesha22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Deelaksha</h1>
+<h3 align="center">🚀 Computer Science & Engineering Student | Coorg Institute of Technology</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deelakesha22&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me
+- 🎓 Pursuing CSE at **Coorg Institute of Technology**
+- 💻 Passionate about **coding & problem solving**
+- 🌱 Currently learning **C++, C, Python & Java**
+- 🚀 Interested in **software development & real-world projects**
+- ⚡ Fun fact: *I believe consistency beats talent*
+
+---
+
+## 🌐 Connect with me
+<p align="left">
+<a href="https://github.com/deelaksha22-design target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/deelaksha-nj" target="Deelaksha N J">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://instagram.com/deelaksha_10" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+<a href="https://leetcode.com/Deelaksha_22" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python, c, java,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=your-username&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✍️ Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
+
+---
+
+## 🚀 Featured Projects
+- 🔹 Project 1 – Short description  
+- 🔹 Project 2 – Short description  
+- 🔹 Project 3 – Short description  
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
+</p>
+
+---
+
+⭐️ From [Deelaksha](https://github.com/your-username)
